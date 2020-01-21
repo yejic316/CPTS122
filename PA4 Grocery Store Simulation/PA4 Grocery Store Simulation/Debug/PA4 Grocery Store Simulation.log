@@ -1,0 +1,4 @@
+﻿  function.c
+c:\users\yejic\documents\visual studio 2015\projects\cpts122\cpt122_pa\pa4 grocery store simulation\pa4 grocery store simulation\function.c(98): warning C4715: 'generate_serviceTime': not all control paths return a value
+  PA4 Grocery Store Simulation.vcxproj -> C:\Users\Yejic\Documents\Visual Studio 2015\Projects\CPTS122\CPT122_PA\PA4 Grocery Store Simulation\Debug\PA4 Grocery Store Simulation.exe
+  PA4 Grocery Store Simulation.vcxproj -> C:\Users\Yejic\Documents\Visual Studio 2015\Projects\CPTS122\CPT122_PA\PA4 Grocery Store Simulation\Debug\PA4 Grocery Store Simulation.pdb (Full PDB)
