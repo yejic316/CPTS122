@@ -1,0 +1,6 @@
+﻿  food.cpp
+c:\users\yejic\documents\visual studio 2015\projects\cpts122\cpt122_pa\pa9 a graphical game - snake\pa9 a graphical game - snake\food.h(2): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  main.cpp
+main.cpp(1): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  Snake.cpp
+c:\users\yejic\documents\visual studio 2015\projects\cpts122\cpt122_pa\pa9 a graphical game - snake\pa9 a graphical game - snake\snake.h(2): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
